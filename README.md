@@ -66,7 +66,7 @@ Include dependency in your project:
 <dependency>
       <groupId>io.moquette</groupId>
       <artifactId>moquette-broker</artifactId>
-      <version>0.12.1</version>
+      <version>0.13</version>
 </dependency>
 ```
 
